@@ -1,0 +1,13 @@
+Session started at: 2025-05-17_09-24-02
+
+Total objects detected:
+Cars: 3380
+Trucks: 103
+Motorcycles: 0
+Pedestrians: 460
+Traffic Signs: 1359
+
+FPS Statistics:
+Max FPS: 25.60
+Min FPS: 0.57
+Avg FPS: 16.92
